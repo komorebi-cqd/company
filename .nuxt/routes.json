@@ -1,0 +1,57 @@
+[
+  {
+    "name": "404",
+    "path": "/404",
+    "component": "D:\\\\学习文件\\\\nuxtApp\\\\nuxt-app\\\\pages\\\\404.vue",
+    "chunkName": "pages/404"
+  },
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\学习文件\\\\nuxtApp\\\\nuxt-app\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "D:\\\\学习文件\\\\nuxtApp\\\\nuxt-app\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\学习文件\\\\nuxtApp\\\\nuxt-app\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "news",
+    "path": "/news",
+    "component": "D:\\\\学习文件\\\\nuxtApp\\\\nuxt-app\\\\pages\\\\news.vue",
+    "chunkName": "pages/news"
+  },
+  {
+    "path": "/products",
+    "component": "D:\\\\学习文件\\\\nuxtApp\\\\nuxt-app\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "children": [
+      {
+        "name": "products",
+        "path": "",
+        "component": "D:\\\\学习文件\\\\nuxtApp\\\\nuxt-app\\\\pages\\\\products\\\\index.vue",
+        "chunkName": "pages/products/index"
+      },
+      {
+        "name": "products-id",
+        "path": ":id",
+        "component": "D:\\\\学习文件\\\\nuxtApp\\\\nuxt-app\\\\pages\\\\products\\\\_id.vue",
+        "chunkName": "pages/products/_id"
+      }
+    ]
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\学习文件\\\\nuxtApp\\\\nuxt-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

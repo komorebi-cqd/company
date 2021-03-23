@@ -1,0 +1,62 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/footer.vue"
+  },
+  "Navigation": {
+    "description": "Auto imported from components/navigation.vue"
+  },
+  "Navmenu": {
+    "description": "Auto imported from components/navmenu.vue"
+  },
+  "Topbar": {
+    "description": "Auto imported from components/topbar.vue"
+  },
+  "BaseCompsBreadcrumb": {
+    "description": "Auto imported from components/baseComps/breadcrumb.vue"
+  },
+  "BaseCompsNavImg": {
+    "description": "Auto imported from components/baseComps/navImg.vue"
+  },
+  "ContactCompsBaiduMap": {
+    "description": "Auto imported from components/contactComps/baiduMap.vue"
+  },
+  "ContactMap": {
+    "description": "Auto imported from components/contactComps/contactMap.vue"
+  },
+  "ContactUs": {
+    "description": "Auto imported from components/contactComps/contactUs.vue"
+  },
+  "ContactCompsOnlineMsg": {
+    "description": "Auto imported from components/contactComps/onlineMsg.vue"
+  },
+  "MainCompsBanner": {
+    "description": "Auto imported from components/mainComps/banner.vue"
+  },
+  "MainCompsCopyright": {
+    "description": "Auto imported from components/mainComps/copyright.vue"
+  },
+  "MainCompsFooterBottom": {
+    "description": "Auto imported from components/mainComps/footerBottom.vue"
+  },
+  "MainCompsFooterTop": {
+    "description": "Auto imported from components/mainComps/footerTop.vue"
+  },
+  "MainCompsMyServices": {
+    "description": "Auto imported from components/mainComps/myServices.vue"
+  },
+  "ProductCompsProdList": {
+    "description": "Auto imported from components/productComps/prodList.vue"
+  },
+  "ProductCompsSearch": {
+    "description": "Auto imported from components/productComps/search.vue"
+  },
+  "ProductCompsSidebar": {
+    "description": "Auto imported from components/productComps/sidebar.vue"
+  },
+  "ProductDetailContent": {
+    "description": "Auto imported from components/productDetail/detailContent.vue"
+  },
+  "ProductDetailHeader": {
+    "description": "Auto imported from components/productDetail/detailHeader.vue"
+  }
+}
